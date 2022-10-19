@@ -1,4 +1,12 @@
 CIKM conference 2022 in Atlanta
 
-https://dl.acm.org/doi/proceedings/10.1145/3511808#heading1
+* Resources
+  * https://dl.acm.org/doi/proceedings/10.1145/3511808#heading1
+  * https://underline.io/events/355/reception
+
+* Git repos
+  * https://github.com/RUCAIBox/RecBole
+  * https://github.com/Bayi-Hu/GIFT-Graph-guided-Feature-Transfer-Network
+  
+
 
