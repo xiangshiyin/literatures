@@ -7,6 +7,8 @@ CIKM conference 2022 in Atlanta
 * Git repos
   * https://github.com/RUCAIBox/RecBole
   * https://github.com/Bayi-Hu/GIFT-Graph-guided-Feature-Transfer-Network
+  * (Hands-on tutorial) https://socialmediaie.github.io/tutorials/
+
   
 
 
