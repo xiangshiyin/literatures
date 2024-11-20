@@ -1,0 +1,14 @@
+- https://arxiv.org/abs/2406.18403
+- https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf
+- https://aclanthology.org/2023.emnlp-main.153.pdf
+- https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00373/100686/SummEval-Re-evaluating-Summarization-Evaluation
+- https://aclanthology.org/2024.eacl-demo.16.pdf
+- https://arxiv.org/abs/2410.01945
+- https://arxiv.org/abs/2404.18796
+- https://arxiv.org/abs/2401.07103
+- https://aclanthology.org/2024.acl-long.818/
+- https://arxiv.org/abs/2409.11860
+- https://link.springer.com/chapter/10.1007/978-3-031-56066-8_1
+- https://arxiv.org/abs/2309.10621
+- [TrecTools](https://github.com/joaopalotti/trectools)
+- 
