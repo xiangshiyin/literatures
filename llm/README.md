@@ -5,8 +5,7 @@
   - [Part 3](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
   - Paper: https://www.youtube.com/watch?v=nzqlFIcCSWQ&t=16s
 
-# LangChain
+## LangChain
 - LangChain quick walkthrough
   - https://github.com/rabbitmetrics/langchain-13-min
   - https://youtu.be/aywZrzNaKjs?si=pfN0BPOdIRsU4cgt
-- 
