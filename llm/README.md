@@ -9,3 +9,8 @@
 - LangChain quick walkthrough
   - https://github.com/rabbitmetrics/langchain-13-min
   - https://youtu.be/aywZrzNaKjs?si=pfN0BPOdIRsU4cgt
+- FastAPI and Cloud function deployment
+  - https://www.youtube.com/watch?v=CzAyaSolZjY
+  - https://www.youtube.com/watch?v=8kOubC4sYNk
+  - https://www.youtube.com/watch?v=bcYmfHOrOPM
+
